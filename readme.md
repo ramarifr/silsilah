@@ -60,7 +60,7 @@ This application can be installed on local server and online server with these s
 
 ### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/silsilah.git`
+1. Clone the repo : `git clone https://github.com/ramarifr/silsilah.git`
 2. `cd silsilah`
 3. `composer install`
 4. `cp .env.example .env`
